@@ -1,0 +1,27 @@
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\bin\Debug\TPClculadora.exe.config
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\bin\Debug\TPClculadora.exe
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\bin\Debug\TPClculadora.pdb
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.csprojResolveAssemblyReference.cache
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.Form1.resources
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.Properties.Resources.resources
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.csproj.GenerateResource.Cache
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.exe
+C:\Users\Lea\Desktop\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.pdb
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\bin\Debug\TPClculadora.exe.config
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.exe
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.pdb
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\bin\Debug\TPClculadora.exe
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\bin\Debug\TPClculadora.pdb
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.csprojResolveAssemblyReference.cache
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.Form1.resources
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.Properties.Resources.resources
+D:\Gregnanin\Cuatri 2\ConsoleApplication1\TPClculadora\obj\Debug\TPClculadora.csproj.GenerateResource.Cache
+D:\Gregnanin\Calculadora\TPClculadora\bin\Debug\TPClculadora.exe.config
+D:\Gregnanin\Calculadora\TPClculadora\obj\Debug\TPClculadora.exe
+D:\Gregnanin\Calculadora\TPClculadora\obj\Debug\TPClculadora.pdb
+D:\Gregnanin\Calculadora\TPClculadora\bin\Debug\TPClculadora.exe
+D:\Gregnanin\Calculadora\TPClculadora\bin\Debug\TPClculadora.pdb
+D:\Gregnanin\Calculadora\TPClculadora\obj\Debug\TPClculadora.csprojResolveAssemblyReference.cache
+D:\Gregnanin\Calculadora\TPClculadora\obj\Debug\TPClculadora.Form1.resources
+D:\Gregnanin\Calculadora\TPClculadora\obj\Debug\TPClculadora.Properties.Resources.resources
+D:\Gregnanin\Calculadora\TPClculadora\obj\Debug\TPClculadora.csproj.GenerateResource.Cache
